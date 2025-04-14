@@ -1,0 +1,2 @@
+/Users/davide/Documents/GitHub/flutter-course/first_app/android/app/.cxx/Debug/1h4z3k2p/x86_64/CMakeFiles/edit_cache.dir
+/Users/davide/Documents/GitHub/flutter-course/first_app/android/app/.cxx/Debug/1h4z3k2p/x86_64/CMakeFiles/rebuild_cache.dir

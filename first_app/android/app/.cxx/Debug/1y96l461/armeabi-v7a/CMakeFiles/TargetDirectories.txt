@@ -1,0 +1,2 @@
+/Users/davide/Documents/GitHub/first_app/android/app/.cxx/Debug/1y96l461/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/davide/Documents/GitHub/first_app/android/app/.cxx/Debug/1y96l461/armeabi-v7a/CMakeFiles/rebuild_cache.dir
