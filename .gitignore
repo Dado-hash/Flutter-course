@@ -1,0 +1,73 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+
+# Environment
+.env
+.env.*
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Android specific
+android/.gradle/
+android/captures/
+android/local.properties
+android/.idea/
+
+# iOS specific
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+ios/.generated/
+
+# Xcode specific
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata/
+*.moved-aside
+DerivedData/
+.idea/
+
+# Web specific
+web/generated_plugin_registrant.dart
+
+# Linux
+linux/flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Fuchsia
+.fuchsia/
+
+# Coverage
+coverage/
+
+# Generated files
+*.g.dart
+
+# Firebase
+firebase_app_id_file.json
+
+# Misc
+*.log
